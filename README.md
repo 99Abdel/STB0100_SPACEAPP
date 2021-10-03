@@ -22,7 +22,7 @@ This service allows everyone who has access to the internet to discover if a zon
 <b>N.B.</b> As this project requires a lot of time, both for the data collection and processing and for the whole infrastructure surrounding the model, this repository hosts 
 only a few scripts actually completed, which will be useful for a future complete developement, while most of the main script is only a structure of the whole concept, containing informations on each passage of the project and a few guidelines for the actual creation of the code.
 <br/><br/>
-<li>"res": folder containing data for both the terrain temperature and vegetation distribution as compressed .csv files.
+<li>"res": folder containing data for the terrain temperature, the vegetation distribution and the precipitation data as compressed .csv files.
 <li>"3_STB_ImagePocessing.py": python script used to open .tif images and convert them in .csv files through numpy's array.
 <li>"ALPSMLC30_N032E077_DSM.tif": example of an altitude map obtained from the "ALOS World 3D - 30m" database containing the map of the region between 32° and 33° N and 77° and 78° E.
 <li>"IDENTIFYING_RISK_WITH_SCIENCE.pptx": powerpoint file used for the presentation of the project to the local judges.
